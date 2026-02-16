@@ -16,7 +16,7 @@ Risk Advisory Professional | AI & Automation | Deloitte
 
 **Tools:** Streamlit, Power BI, Git
 
-**Domain:** Risk Advisory, Contract Analysis, Digital Transformation
+**Domain:** Risk Advisory, Digital Transformation
 
 ### Contact
 

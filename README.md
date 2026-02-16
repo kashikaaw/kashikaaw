@@ -20,4 +20,4 @@ Risk Advisory Professional | AI & Automation | Deloitte
 
 ### Contact
 
-[Email](mailto:kashikaaw@gmail.com) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+[Email](mailto:kashikaaw@gmail.com) | [LinkedIn]([https://in.linkedin.com/in/kashikawanchoo])

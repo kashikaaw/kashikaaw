@@ -1,16 +1,23 @@
-## Hi there 👋
+## Kashika Wanchoo
 
-<!--
-**kashikaaw/kashikaaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Risk Advisory Professional | AI & Automation | Deloitte
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| DocuMind | AI contract analyzer with multi-jurisdiction support, risk scoring, and negotiation recommendations | Python, Streamlit, Groq, Gemini, OpenCV | [Demo](https://docmind-kashikawanchoo.streamlit.app/) / [Code](https://github.com/kashikaaw/documind-contract-analyzer) |
+
+### Skills
+
+**Languages:** Python, SQL
+
+**AI/ML:** LangChain, Groq, Google Gemini, OpenCV, NLP
+
+**Tools:** Streamlit, Power BI, Git
+
+**Domain:** Risk Advisory, Contract Analysis, Digital Transformation
+
+### Contact
+
+[Email](mailto:kashikaaw@gmail.com) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
